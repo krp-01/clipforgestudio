@@ -1,0 +1,3 @@
+# Tkinter ships with most Python distributions.
+# Additional runtime dependencies:
+pyinstaller>=6.0
