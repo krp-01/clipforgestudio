@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/mis.db
+data/mis.log
+dist/
+build/
+*.spec
